@@ -22,10 +22,10 @@ import json #This is a handy library for doing JSON work.
 
 # Base URL for API. Do not include /api/* in the url
 base_url = "https://trianz.looker.com:19999"
-# API 3 client id
-client_id= "DDgqM4FK5fcrDp39mj7x"
-# API 3 client secret
-client_secret= "GsCngtmtKRrb6DrQBdbnHKxB"
+# API 3 client id below
+client_id= "" 
+# API 3 client secret below
+client_secret= "" 
 # Set to false if testing locally against self-signed certs. Otherwise leave True
 verify_ssl=True
 
